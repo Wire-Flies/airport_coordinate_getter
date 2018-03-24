@@ -1,0 +1,1 @@
+To run: node app.js  host=localhost user=wireflies password=wireflies database=wireflies port=5432
